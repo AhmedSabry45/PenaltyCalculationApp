@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H5ah3l6VabQ3ehnhHUxXF9VfQGFxzkf+NuwF9ZjddzdM9jn7u7bGpF16113PPgoMOKSlBV624+GqFxZU6NLkrQ==",
+  "success": true,
+  "projectFilePath": "H:\\.net videos\\Project\\PenaltyCalculation\\PenaltyCalculation\\src\\Microsoft.Extensions.DependencyInjection.Named\\Microsoft.Extensions.DependencyInjection.Named.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

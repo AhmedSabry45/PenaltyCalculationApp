@@ -1,0 +1,10 @@
+H:\.net videos\c#\Projects\PenaltyCalculation\PenaltyCalculation\src\Microsoft.Extensions.DependencyInjection.Named\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.deps.json
+H:\.net videos\c#\Projects\PenaltyCalculation\PenaltyCalculation\src\Microsoft.Extensions.DependencyInjection.Named\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.dll
+H:\.net videos\c#\Projects\PenaltyCalculation\PenaltyCalculation\src\Microsoft.Extensions.DependencyInjection.Named\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.pdb
+H:\.net videos\c#\Projects\PenaltyCalculation\PenaltyCalculation\src\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.csproj.AssemblyReference.cache
+H:\.net videos\c#\Projects\PenaltyCalculation\PenaltyCalculation\src\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.GeneratedMSBuildEditorConfig.editorconfig
+H:\.net videos\c#\Projects\PenaltyCalculation\PenaltyCalculation\src\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.AssemblyInfoInputs.cache
+H:\.net videos\c#\Projects\PenaltyCalculation\PenaltyCalculation\src\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.AssemblyInfo.cs
+H:\.net videos\c#\Projects\PenaltyCalculation\PenaltyCalculation\src\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.csproj.CoreCompileInputs.cache
+H:\.net videos\c#\Projects\PenaltyCalculation\PenaltyCalculation\src\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.dll
+H:\.net videos\c#\Projects\PenaltyCalculation\PenaltyCalculation\src\Microsoft.Extensions.DependencyInjection.Named\obj\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Named.pdb
